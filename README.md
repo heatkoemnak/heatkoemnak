@@ -1,5 +1,5 @@
 
-<p align="center"> <img src="https://media.giphy.com/media/KZGKMQZzTSHegvXUu1/giphy.gif" </p>
+<p align="center"> <img src="https://media.giphy.com/media/KZGKMQZzTSHegvXUu1/giphy.gif"height="300" width="4000" </p>
 <h1 align="center">Hi 👋, I'm Koemnak Heat</h1>
 <h3 align="center">A passionate frontend developer from Cambodia</h3>
 
