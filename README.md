@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Koemnak Heat</h1>
 <h3 align="center">A passionate frontend developer from Cambodia</h3>
 
-<p align="left"> <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="heatkoemnak" /> </p>
+<p align="center"> <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="heatkoemnak" /> </p>
 
 - 🔭 I’m currently working as **Software developer**
 
