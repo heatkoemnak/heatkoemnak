@@ -24,8 +24,8 @@
 
  <br />
 <div align="center"> 
- <img width="400em" alt = "Arnab Ghosh Github Stats" src="https://github-readme-stats.vercel.app/api?username=heatkoemnak&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heatkoemnak&layout=compact&langs_count=7&theme=algolia"/>
+ <img width="450em" alt = "Arnab Ghosh Github Stats" src="https://github-readme-stats.vercel.app/api?username=heatkoemnak&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heatkoemnak&layout=compact&langs_count=7&theme=algolia"/>
 </div>
  
 <br />
