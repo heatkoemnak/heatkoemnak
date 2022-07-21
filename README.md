@@ -30,7 +30,7 @@
  
 <br />
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=heatkoemnak&" /></p>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=heatkoemnak&theme=gruvbox)](https://git.io/streak-stats)
 
  
 <h1 align="center">Contribution graph</h1>
@@ -43,6 +43,12 @@ You can click the Preview link to take a look at your changes.
 ---><div align="center">
 ![](https://komarev.com/ghpvc/?username=heatkoemnak&color=blueviolet&style=flat-square)
    </div>
+ 
+![Chart not found](https://raw.githubusercontent.com/heatkoemnak/heatkoemnak/master/charts/bar_graph.png) 
+ 
+ ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=Heatkimnak)
+
+
 
 
 
