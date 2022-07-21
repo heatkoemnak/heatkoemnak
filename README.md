@@ -3,15 +3,15 @@
 <h1 align="center">Hi 👋, Wellcome to My Github</h1>
 <h1 align="left">🎡About Me></h1>
 
--  🔭 I'mlearning as **Software developer**
+-  🔭 I'm learning as Software developer
 
-- 🌱 I’m currently learning **python, c#, c, and html**
+- 🌱 I’m currently learning python, c#, c, and html
 
-- 🤝 I’m looking for help with **css and javascript**
+- 🤝 I’m looking for help with css and javascript
 
 - 📫 How to reach me **heatkimnak@gmail.com**
 
-<h3 align="left">Contact Me By:</h3>
+<h2 align="left">Reach Me Out On <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50"></h2>
 <p align="left">
 <a href="https://fb.com/kim nak gk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kim nak gk" height="30" width="40" /></a>
 <a href="https://instagram.com/kimnak gk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kimnak gk" height="30" width="40" /></a>
@@ -21,6 +21,9 @@
 <h1><img src="https://media.giphy.com/media/UvPvsX9oMlMWs/giphy.gif" height="30px">Languages and Tools:</h1>
 <p align="center"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
+<h2 align="center">
+  My Github Stats<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
+</h2>
 
  <br />
 <div align="center"> 
@@ -29,10 +32,10 @@
 </div>
  
 <br />
- 
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=heatkoemnak&theme=gruvbox)](https://git.io/streak-stats)
-
+<p align = "center">
+ <img  src="https://github-readme-streak-stats.herokuapp.com/?user=heatkoemnak&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
+</p> 
  
 <h1 align="center">
   My Contribution Graph <img src="https://media.giphy.com/media/xUA7aZeLE2e0P7Znz2/giphy.gif" width="50">
