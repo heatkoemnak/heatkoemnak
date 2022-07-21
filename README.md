@@ -1,5 +1,5 @@
 
-<p align="center"> <img src="https://media.giphy.com/media/KZGKMQZzTSHegvXUu1/giphy.gif"height="300" width="900" </p>
+<p align="center"> <img src="https://media.giphy.com/media/KZGKMQZzTSHegvXUu1/giphy.gif"height="300" width="700" </p>
 <h1 align="center">Hi 👋, Wellcome to My Github</h1>
 <h1 align="left">🎡About Me></h1>
 
@@ -24,8 +24,8 @@
 
  <br />
 <div align="center"> 
- <img width="500em" alt = "Arnab Ghosh Github Stats" src="https://github-readme-stats.vercel.app/api?username=heatkoemnak&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heatkoemnak&layout=compact&langs_count=7&theme=algolia"/>
+ <img width="450em" alt = "Arnab Ghosh Github Stats" src="https://github-readme-stats.vercel.app/api?username=heatkoemnak&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heatkoemnak&layout=compact&langs_count=7&theme=algolia"/>
 </div>
  
 <br />
