@@ -29,12 +29,11 @@
 </div>
  
 <br />
+ 
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=heatkoemnak&theme=gruvbox)](https://git.io/streak-stats)
 
  
-
-
 <h1 align="center">
   My Contribution Graph <img src="https://media.giphy.com/media/xUA7aZeLE2e0P7Znz2/giphy.gif" width="50">
 </h1>
@@ -55,10 +54,9 @@ You can click the Preview link to take a look at your changes.
 <hr>
 <p align="center">If you like it, do fork 🍴 and star ⭐</p>
 
- 
 ![Chart not found](https://raw.githubusercontent.com/heatkoemnak/heatkoemnak/master/charts/bar_graph.png) 
  
- ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=Heatkimnak)
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=Heatkimnak)
  
 
 
