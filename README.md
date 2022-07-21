@@ -1,5 +1,5 @@
 
-<p align="center"> <img src="https://media.giphy.com/media/KZGKMQZzTSHegvXUu1/giphy.gif"height="300" width="800" </p>
+<p align="center"> <img src="https://media.giphy.com/media/KZGKMQZzTSHegvXUu1/giphy.gif"height="300" width="900" </p>
 <h1 align="center">Hi 👋, Wellcome to My Github</h1>
 <h1 align="left">🎡About Me></h1>
 
@@ -33,8 +33,12 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=heatkoemnak&theme=gruvbox)](https://git.io/streak-stats)
 
  
-<h1 align="center">My Contribution Graph</h1>
 
+
+<h1 align="center">
+  My Contribution Graph <img src="https://media.giphy.com/media/xUA7aZeLE2e0P7Znz2/giphy.gif" width="50">
+</h1>
+ 
 ![Snake animation](https://github.com/heatkoemnak/heatkoemnak/blob/output/github-contribution-grid-snake.svg)
   
 <!---
