@@ -1,13 +1,12 @@
 
 <p align="center"> <img src="https://media.giphy.com/media/KZGKMQZzTSHegvXUu1/giphy.gif"height="300" width="800" </p>
 <h1 align="center">Hi 👋, I'm Koemnak Heat</h1>
-<h3 align="center">A passionate frontend developer from Cambodia</h3>
-
-- 🔭 I’m currently working as **Software developer**
+<h3 align="left">🎡about Me></h3>
+- 🔭 My major as **Software developer**
 
 - 🌱 I’m currently learning **python, c#, c, and html**
 
-- 🤝 I’m looking for help with **css**
+- 🤝 I’m looking for help with **css and javascript**
 
 - 📫 How to reach me **heatkimnak@gmail.com**
 
@@ -25,10 +24,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=heatkoemnak&show_icons=true&locale=en" alt="heatkoemnak" /></p>
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=heatkoemnak&" /></p>
-### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=heatkoemnak&theme=dark&background=000000)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heatkoemnak&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-<br>
-[![SaTy's github activity graph](https://activity-graph.herokuapp.com/graph?username=heatkoemnak&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+
 
 
