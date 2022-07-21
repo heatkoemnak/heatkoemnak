@@ -24,6 +24,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=heatkoemnak&show_icons=true&locale=en" alt="heatkoemnak" /></p>
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=heatkoemnak&" /></p>
+![Snake animation](https://github.com/ghosharnab00/ghosharnab00/blob/output/github-contribution-grid-snake.svg)
 
 
 
