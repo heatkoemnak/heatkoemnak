@@ -1,5 +1,5 @@
 
-<p align="center"> <img src="https://media.giphy.com/media/KZGKMQZzTSHegvXUu1/giphy.gif"height="300" width="1000" </p>
+<p align="center"> <img src="https://media.giphy.com/media/KZGKMQZzTSHegvXUu1/giphy.gif"height="300" width="800" </p>
 <h1 align="center">Hi 👋, Wellcome to My Github</h1>
 <h1 align="left">🎡About Me></h1>
 
@@ -33,7 +33,7 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=heatkoemnak&theme=gruvbox)](https://git.io/streak-stats)
 
  
-<h1 align="center">Contribution graph</h1>
+<h1 align="center">My Contribution Graph</h1>
 
 ![Snake animation](https://github.com/heatkoemnak/heatkoemnak/blob/output/github-contribution-grid-snake.svg)
   
@@ -43,10 +43,19 @@ You can click the Preview link to take a look at your changes.
 ---><div align="center">
 ![](https://komarev.com/ghpvc/?username=heatkoemnak&color=blueviolet&style=flat-square)
    </div>
+   
+
+<p align = "center">
+ <img src="https://activity-graph.herokuapp.com/graph?username=heatkoemnak&theme=redical">
+</p> 
+<hr>
+<p align="center">If you like it, do fork 🍴 and star ⭐</p>
+
  
 ![Chart not found](https://raw.githubusercontent.com/heatkoemnak/heatkoemnak/master/charts/bar_graph.png) 
  
  ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=Heatkimnak)
+ 
 
 
 
