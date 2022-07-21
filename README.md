@@ -2,7 +2,7 @@
 <p align="center"> <img src="https://media.giphy.com/media/KZGKMQZzTSHegvXUu1/giphy.gif"height="300" width="800" </p>
 <h1 align="center">Hi 👋, I'm Koemnak Heat</h1>
 <h3 align="left">🎡about Me></h3>
-- 🔭 My major as **Software developer**
+- 🔭 I'mlearning as **Software developer**
 
 - 🌱 I’m currently learning **python, c#, c, and html**
 
@@ -24,7 +24,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=heatkoemnak&show_icons=true&locale=en" alt="heatkoemnak" /></p>
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=heatkoemnak&" /></p>
-![Snake animation](https://github.com/ghosharnab00/ghosharnab00/blob/output/github-contribution-grid-snake.svg)
+##snake eating my contribution graph
+![Snake animation](https://github.com/heatkoemnak/heatkoemnak/blob/output/github-contribution-grid-snake.svg)
 
 
 
