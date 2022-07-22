@@ -63,8 +63,9 @@ You can click the Preview link to take a look at your changes.
 ![Chart not found](https://raw.githubusercontent.com/heatkoemnak/heatkoemnak/master/charts/bar_graph.png) 
  
 ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=Heatkimnak)
- 
+## connect with spotify
 
+[<img src="/img/btn-spotify.png">](https://spotify-github-profile.vercel.app/api/login)
 
 
 
