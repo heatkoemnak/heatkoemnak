@@ -27,7 +27,9 @@ https://www.itsnicethat.com/news/giphy-frame-by-frame-animation-090921
 <h2 align="center">
   My Github Stats<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 </h2>
-
+<p align = "center">
+ <img  src="https://github-readme-streak-stats.herokuapp.com/?user=heatkoemnak&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
+</p> 
  <br />
 <div align="center"> 
  <img width="410em" alt = "Arnab Ghosh Github Stats" src="https://github-readme-stats.vercel.app/api?username=heatkoemnak&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
@@ -35,10 +37,6 @@ https://www.itsnicethat.com/news/giphy-frame-by-frame-animation-090921
 </div>
  
 <br />
-
-<p align = "center">
- <img  src="https://github-readme-streak-stats.herokuapp.com/?user=heatkoemnak&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
-</p> 
  
 <h1 align="center">
   My Contribution Graph <img src="https://media.giphy.com/media/xUA7aZeLE2e0P7Znz2/giphy.gif" width="50">
