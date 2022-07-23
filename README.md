@@ -64,9 +64,8 @@ You can click the Preview link to take a look at your changes.
  
 ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=Heatkimnak)
 ## connect with spotify
-
-[<img src="/img/btn-spotify.png">](https://spotify-github-profile.vercel.app/api/login)
-
+  
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=sl6ql512ybip2d4fbvs6zfsxv&cover_image=true&theme=default&bar_color_cover=false)]     (https://github.com/heatkoemnak/spotify-github-profile)
 
 
 
