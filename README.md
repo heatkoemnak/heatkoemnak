@@ -16,8 +16,12 @@ https://www.itsnicethat.com/news/giphy-frame-by-frame-animation-090921
 
 <h2 align="left">Reach Me Out On <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50"></h2>
 <p align="left">
-<a href="https://fb.com/kim nak gk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kim nak gk" height="30" width="40" /></a>
-<a href="https://instagram.com/kimnak gk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kimnak gk" height="30" width="40" /></a>
+<a href="https://fb.com/kim nak gk" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kim nak gk" height="30" width="40" /></a>
+<a href="https://instagram.com/kimnak gk" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kimnak gk" height="30" width="40" /></a>
+<a href="https://telegram.com/heatkoemnak" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/telegram.svg" alt="heathoemnak" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">
