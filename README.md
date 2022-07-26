@@ -1,8 +1,5 @@
 
-<p align = "center">
- <img src="https://activity-graph.herokuapp.com/graph?username=heatkoemnak&theme=redical">
-</p> 
-<p align="center"> <img src="https://media.giphy.com/media/i1JHRZSXO9LZZDHqii/giphy.gif"height="400" width="850" </p>
+<p align="center"> <img src="https://media.giphy.com/media/26xBukhJ0i8KXADYc/giphy.gif"height="400" width="850" </p>
 <h1 align="center">Hi 👋, Wellcome to My Github</h1>
 <h1 align="left">🎡About Me></h1>
 <p align = "center">
@@ -42,10 +39,8 @@ https://www.itsnicethat.com/news/giphy-frame-by-frame-animation-090921
  <img width="410em" alt = "Arnab Ghosh Github Stats" src="https://github-readme-stats.vercel.app/api?username=heatkoemnak&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img width="410em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heatkoemnak&layout=compact&langs_count=7&theme=algolia"/>
 </div>
- <h1 align="center">
-  My Contribution Graph <img src="https://media.giphy.com/media/xUA7aZeLE2e0P7Znz2/giphy.gif" width="50">
-</h1>
-<br />
+
+
 <p align = "right">
  <img src="https://activity-graph.herokuapp.com/graph?username=heatkoemnak&theme=redical">
 </p> 
