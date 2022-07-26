@@ -1,5 +1,8 @@
 
-<p align="center"> <img src="https://media.giphy.com/media/ispEc1253326c/giphy.gif"height="350" width="850" </p>
+<p align = "center">
+ <img src="https://activity-graph.herokuapp.com/graph?username=heatkoemnak&theme=redical">
+</p> 
+<p align="center"> <img src="https://media.giphy.com/media/i1JHRZSXO9LZZDHqii/giphy.gif"height="400" width="850" </p>
 <h1 align="center">Hi 👋, Wellcome to My Github</h1>
 <h1 align="left">🎡About Me></h1>
 <p align = "center">
@@ -39,26 +42,21 @@ https://www.itsnicethat.com/news/giphy-frame-by-frame-animation-090921
  <img width="410em" alt = "Arnab Ghosh Github Stats" src="https://github-readme-stats.vercel.app/api?username=heatkoemnak&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img width="410em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heatkoemnak&layout=compact&langs_count=7&theme=algolia"/>
 </div>
- 
-<br />
- 
-<h1 align="center">
+ <h1 align="center">
   My Contribution Graph <img src="https://media.giphy.com/media/xUA7aZeLE2e0P7Znz2/giphy.gif" width="50">
 </h1>
+<br />
+<p align = "right">
+ <img src="https://activity-graph.herokuapp.com/graph?username=heatkoemnak&theme=redical">
+</p> 
  
-![Snake animation](https://github.com/heatkoemnak/heatkoemnak/blob/output/github-contribution-grid-snake.svg)
-  
 <!---
 heatkoemnak/heatkoemnak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 ---><div align="center">
 ![](https://komarev.com/ghpvc/?username=heatkoemnak&color=blueviolet&style=flat-square)
    </div>
-   
 
-<p align = "center">
- <img src="https://activity-graph.herokuapp.com/graph?username=heatkoemnak&theme=redical">
-</p> 
 <hr>
 <p align="center">If you like it, do fork 🍴 and star ⭐</p>
 
