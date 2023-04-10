@@ -1,15 +1,21 @@
+<style>
+  .image{
+    height:200px;
+    width:850px;
+
+  }
 
 
-
-<p align="center"> 
-<img src="asset/github-banner.png"height="400" width="850" </p>
+</style>
+<p align="center" class="image"> 
+<img src="asset/github-banner.png"</p>
 <h1 align="center">Hi 👋, Wellcome to My Github</h1>
 <h1 align="left">🎡About Me></h1>
 <p align = "center">
 https://www.itsnicethat.com/news/giphy-frame-by-frame-animation-090921
-</p> 
+</p>
 
--  🔭 I'm learning as Software developer
+- 🔭 I'm learning as Software developer
 
 - 🌱 I’m currently learning python, c#, c, and html
 
@@ -43,7 +49,6 @@ https://www.itsnicethat.com/news/giphy-frame-by-frame-animation-090921
   <img width="410em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heatkoemnak&layout=compact&langs_count=7&theme=algolia"/>
 </div>
 
-
 <p align = "right">
  <img src="https://activity-graph.herokuapp.com/graph?username=heatkoemnak&theme=redical">
 </p> 
@@ -58,15 +63,10 @@ You can click the Preview link to take a look at your changes.
 <hr>
 <p align="center">If you like it, do fork 🍴 and star ⭐</p>
 
-![Chart not found](https://raw.githubusercontent.com/heatkoemnak/heatkoemnak/master/charts/bar_graph.png) 
- 
+![Chart not found](https://raw.githubusercontent.com/heatkoemnak/heatkoemnak/master/charts/bar_graph.png)
+
 ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=Heatkimnak)
+
 ## connect with spotify
+
 github-contribution-grid-snake.svg
-  
-
-
-
-
-
-
