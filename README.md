@@ -1,26 +1,30 @@
-<style>
-  .image{
-    height:200px;
-    width:850px;
+<p>- 🌱 I’m currently learning python, c#, c, and html</p>
+    <p>- 🤝 I’m looking for help with css and javascript</p>
+    <p>- 👨‍💻 All of my projects are available at</p>
+    <p>- 📫 How to reach me
+        <a href="https://www.instagram.com/Kim_Nak_GK/">Instagram</a>
+        <a href="https://www.facebook.com/andhika.putra.399/">Facebook</a>
+        <a href="https://www.youtube.com/channel/UCY1kYQ6YQX0Z9Z2YQ1Yq8jw">Youtube</a>
+        <a href="https://www.linkedin.com/in/andhika-putra-0b1b1b1b9/">Linkedin</a>
+        <a href="https://twitter.com/AndhikaP_">Twitter</a>
+        <a href="https://www.reddit.com/user/AndhikaP_">Reddit</a>
+        <a href="https://www.tiktok.com/@andhikaputra_">Tiktok</a>
+        <a href="https://www.pinterest.com/andhikaputra_/">Pinterest</a>
+        <a href="https://www.quora.com/profile/Andhika-Putra-1">Quora</a>
+        <a href="https://www.blogger.com/profile/16620000000000000000">Blogger</a>
+        <a href="https://www.tumblr.com/blog/andhikaputra_">Tumblr</a>
+        <a href="https://www.flickr.com/people/andhikaputra_/">Flickr</a>
+        <a href="https://www.behance.net/andhikaputra_">Behance</a>
+        <a href="https://www.deviantart.com/andhikaputra_">Deviantart</a>
+        <a href="https://www.dribbble.com/andhikaputra_">Dribbble</a>
+        <a href="https://www.etsy.com/shop/andhikaputra_">Etsy</a>
 
-  }
 
+       
 
-<p align="center" class="image"> 
-<img src="asset/github-banner.png"</p>
-<h1 align="center">Hi 👋, Wellcome to My Github</h1>
-<h1 align="left">🎡About Me></h1>
-<p align = "center">
-https://www.itsnicethat.com/news/giphy-frame-by-frame-animation-090921
-</p>
+    </p>
 
-- 🔭 I'm learning as Software developer
-
-- 🌱 I’m currently learning python, c#, c, and html
-
-- 🤝 I’m looking for help with css and javascript
-
-- 📫 How to reach me **heatkimnak@gmail.com**
+    <p>- ⚡ Fun fact</p>
 
 <h2 align="left">Reach Me Out On <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50"></h2>
 <p align="left">
