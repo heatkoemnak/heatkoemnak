@@ -1,6 +1,5 @@
 
-
-name: Generate Snake
+name: generate Snake
 
 on:
   schedule: # execute every 12 hours
