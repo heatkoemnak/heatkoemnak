@@ -1,3 +1,4 @@
+<img src="asset/github-banner.png" alt="">
 <p>- 🌱 I’m currently learning python, c#, c, and html</p>
     <p>- 🤝 I’m looking for help with css and javascript</p>
     <p>- 👨‍💻 All of my projects are available at</p>
