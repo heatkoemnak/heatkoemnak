@@ -1,5 +1,8 @@
 
-<p align="center"> <img src="https://media.giphy.com/media/26xBukhJ0i8KXADYc/giphy.gif"height="400" width="850" </p>
+
+
+<p align="center"> 
+<img src="asset/github-banner.png"height="400" width="850" </p>
 <h1 align="center">Hi 👋, Wellcome to My Github</h1>
 <h1 align="left">🎡About Me></h1>
 <p align = "center">
