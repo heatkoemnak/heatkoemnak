@@ -2,7 +2,7 @@
 <p>- 🌱 I’m currently learning python, c#, c, and html</p>
     <p>- 🤝 I’m looking for help with css and javascript</p>
     <p>- 👨‍💻 All of my projects are available at</p>
-    <p>- 📫 How to reach me
+    <p>- 📫 How to reach me</p>
         <a href="https://www.instagram.com/Kim_Nak_GK/">Instagram</a>
         <a href="https://www.facebook.com/andhika.putra.399/">Facebook</a>
         <a href="https://www.youtube.com/channel/UCY1kYQ6YQX0Z9Z2YQ1Yq8jw">Youtube</a>
