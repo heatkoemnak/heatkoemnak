@@ -1,12 +1,4 @@
-<style>
-  .image{
-    height:200px;
-    width:850px;
 
-  }
-
-
-</style>
 <p align="center" class="image"> 
 <img src="asset/github-banner.png"</p>
 <h1 align="center">Hi 👋, Wellcome to My Github</h1>
