@@ -51,9 +51,9 @@
 <h2 align="right">
   My Github Stats<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 </h2>
-<p align = "center">
+<p align = "center" width="500">
  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=heatkoemnak&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
- <img alt = "Arnab Ghosh Github Stats" src="https://github-readme-stats.vercel.app/api?username=heatkoemnak&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+ <img src="https://github-readme-stats.vercel.app/api?username=heatkoemnak&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 </p> 
  <br />
 
