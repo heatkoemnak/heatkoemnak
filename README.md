@@ -53,7 +53,7 @@
 </h2>
 <p align = "center" >
  <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=heatkoemnak&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
- <img width="400" src="https://github-readme-stats.vercel.app/api?username=heatkoemnak&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+ <img width="350" src="https://github-readme-stats.vercel.app/api?username=heatkoemnak&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 </p> 
  <br />
 
