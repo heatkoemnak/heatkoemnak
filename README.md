@@ -76,7 +76,7 @@ You can click the Preview link to take a look at your changes.
 <hr>
 <h2 align="left">How to Reach Me <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50"></h2>
 <div align="center">
-<a href="https://github.com/rishavanand" target="_blank">
+<a href="https://github.com/heatkoemnak" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://twitter.com/iamrishavanand" target="_blank">
