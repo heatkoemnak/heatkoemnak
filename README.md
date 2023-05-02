@@ -4,7 +4,7 @@
     <p>- 🤝 I’m looking for help with ReactJs and Database </p>
     <p>- 👨‍💻 Currently I am doing a Project named "Anit WastE which is containt about recycling."</p>
     <p>- ❓ Ask me about anything related to MERN stack and related technologies </p> 
-    <p>- ⚡ Fun fact: I use tabs over spaces  </p>
+    <p>- ⚡ Fun fact: I keep night shift swithed on at all times     </p>
     <p>- 📫 How to reach me</p>
         <a href="https://www.instagram.com/Kim_Nak_GK/">Instagram</a>
         <a href="https://www.facebook.com/andhika.putra.399/">Facebook</a>
