@@ -1,5 +1,4 @@
-[<img src="asset/github-banner.png" alt="">](https://media.giphy.com/media/7VbK6cFXvSgBpFMnfC/giphy.gif)
-<h1 align="center" background-color="red">Hi 👋, My name is HEAT KOEMNAK</h1>
+[<img src="https://media.giphy.com/media/wv1RNuvWMjQ10bzExO/giphy.gif" alt="" width="1000" height="400" >]
 <h1 align="left">🎡About Me</h1>
 <p>- 🌱 I’m currently learning python, c#, c, and html</p>
     <p>- 🤝 I’m looking for help with css and javascript</p>
