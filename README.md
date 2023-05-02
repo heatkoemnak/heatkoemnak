@@ -1,4 +1,4 @@
-[<img src="https://media.giphy.com/media/wv1RNuvWMjQ10bzExO/giphy.gif" alt="" width="1000" height="400" >]
+<img src="https://media.giphy.com/media/wv1RNuvWMjQ10bzExO/giphy.gif" alt="" width="1000" height="400" >
 <h1 align="left">🎡About Me</h1>
     <p>- 🌱 I’m currently learning javascript, ReactJs, and SQL</p>
     <p>- 🤝 I’m looking for help with ReactJs and Database </p>
@@ -57,21 +57,20 @@
 
 </p>
 
-<h2 align="center">
+<h2 align="right">
   My Github Stats<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 </h2>
 <p align = "center">
  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=heatkoemnak&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
+ <img alt = "Arnab Ghosh Github Stats" src="https://github-readme-stats.vercel.app/api?username=heatkoemnak&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 </p> 
  <br />
-<div align="center"> 
- <img width="410em" alt = "Arnab Ghosh Github Stats" src="https://github-readme-stats.vercel.app/api?username=heatkoemnak&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img width="410em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heatkoemnak&layout=compact&langs_count=7&theme=algolia"/>
+
+<div align ="right">
+    <img width="700rem"height="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heatkoemnak&layout=compact&langs_count=7&theme=algolia"/>
 </div>
 
-<p align = "right">
- <img src="https://activity-graph.herokuapp.com/graph?username=heatkoemnak&theme=redical">
-</p> 
+
  
 <!---
 heatkoemnak/heatkoemnak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -80,6 +79,9 @@ You can click the Preview link to take a look at your changes.
 ![](https://komarev.com/ghpvc/?username=heatkoemnak&color=blueviolet&style=flat-square)
    </div>
 
+  
+
+<br/> 
 <hr>
 <h2 align="left">How to Reach Me <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50"></h2>
 <div align="center">
