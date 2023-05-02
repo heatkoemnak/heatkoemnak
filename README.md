@@ -1,7 +1,7 @@
 [<img src="https://media.giphy.com/media/wv1RNuvWMjQ10bzExO/giphy.gif" alt="" width="1000" height="400" >]
 <h1 align="left">🎡About Me</h1>
     <p>- 🌱 I’m currently learning javascript, ReactJs, and SQL</p>
-    <p>- 🤝 I’m looking for help with css and javascript</p>
+    <p>- 🤝 I’m looking for help with ReactJs and Database </p>
     <p>- 👨‍💻 Currently I am doing a Project named "Anit WastE which is containt about recycling."</p>
     <p>- ❓ Ask me about anything related to MERN stack and related technologies </p> 
     <p>- ⚡ Fun fact: I use tabs over spaces  </p>
