@@ -19,7 +19,7 @@
 
 
 <h3 align="center">
-<h1><img src="https://media.giphy.com/media/UvPvsX9oMlMWs/giphy.gif" height="30px">I'm Experiences :</h1>
+<h1><img src="https://media.giphy.com/media/UvPvsX9oMlMWs/giphy.gif" height="30px">I'm Experienced in :</h1>
 
 <div align="center">  
     <div align="center">  
