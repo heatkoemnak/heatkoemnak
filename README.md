@@ -7,7 +7,7 @@
     <p>- ⚡ Fun fact: I keep night shift swithed on at all times     </p>
     <p>- 📫 How to reach me</p>
         <a href="https://www.instagram.com/Kim_Nak_GK/">Instagram</a>
-        <a href="https://www.facebook.com/andhika.putra.399/">Facebook</a>
+        <a href="https://www.facebook.com/Kim_Nak_GK/">Facebook</a>
         <a href="https://www.youtube.com/channel/UCY1kYQ6YQX0Z9Z2YQ1Yq8jw">Youtube</a>
         <a href="https://www.linkedin.com/in/andhika-putra-0b1b1b1b9/">Linkedin</a>
         <a href="https://twitter.com/AndhikaP_">Twitter</a>
